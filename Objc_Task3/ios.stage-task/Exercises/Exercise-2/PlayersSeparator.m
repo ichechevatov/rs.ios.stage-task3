@@ -3,6 +3,7 @@
 @implementation PlayersSeparator
 
 - (NSInteger)dividePlayersIntoTeams:(NSArray<NSNumber *>*)ratingArray {
+ 
     return 0;
 }
 
